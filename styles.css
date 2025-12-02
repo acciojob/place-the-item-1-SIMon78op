@@ -1,2 +1,13 @@
+.item {
+	justify-content: space-between;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between
+}
 
+.holder {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
 /* Your CSS Code here. */
